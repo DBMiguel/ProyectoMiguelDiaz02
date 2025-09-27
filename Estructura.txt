@@ -1,0 +1,7 @@
+Entregable1+MiguelAngelDiazOcampo/
+│
+├─ index.html
+├─ css/
+│   └─ style.css
+└─ js/
+    └─ app.js
