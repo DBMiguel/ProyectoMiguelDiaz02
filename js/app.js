@@ -93,7 +93,7 @@ function createForm() {
           <input id="capital" type="number" min="1" required />
         </div>
         <div>
-          <label for="plazo">Plazo (meses)</label>
+          <label for="plazo">Plazo (Meses o cuotas)</label>
           <input id="plazo" type="number" min="1" required />
         </div>
         <div>
