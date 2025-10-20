@@ -5,7 +5,7 @@
    usando localStorage, con una imagen de Pokémon.
     */
 
-/* ===== VARIABLES GLOBALES ===== */
+/* VARIABLES GLOBALES  */
 
 const app = document.getElementById('app');
 const STORAGE_KEY = 'prestamos_simulados_v1';
@@ -14,7 +14,7 @@ let prestamos = JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
 
 
 
-/* ===== FUNCIONES DE CARGA DE DATOS ===== */
+/*  FUNCIONES DE CARGA DE DATOS  */
 
 /* Carga los datos de tasas desde un archivo local JSON */
 async function fetchTasas() {

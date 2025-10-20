@@ -4,5 +4,8 @@ ProyectoFinal+Miguel Diaz
 │   └─ style.css
 ├─ js/
 │   └─ app.js
+├─ Readme.md
+├─ Script.js
+│
 └─ data/
-   └─ tasas.json
+   └─ tasas.jso
