@@ -1,0 +1,12 @@
+{
+  "planes": [
+    { "id": "basico", "nombre": "Básico", "tasa": 8.5, "descripcion": "Tasa preferente para montos pequeños" },
+    { "id": "estandar", "nombre": "Estándar", "tasa": 12.0, "descripcion": "Opción recomendada para la mayoría" },
+    { "id": "premium", "nombre": "Premium", "tasa": 18.5, "descripcion": "Para plazos cortos y montos altos" }
+  ],
+  "simuladorDefault": {
+    "capital": 5000,
+    "plazo": 12,
+    "planId": "estandar"
+  }
+}

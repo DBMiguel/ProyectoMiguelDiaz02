@@ -1,7 +1,8 @@
-Entregable1+MiguelAngelDiazOcampo/
-│
+ProyectoFinal+Miguel Diaz
 ├─ index.html
 ├─ css/
 │   └─ style.css
-└─ js/
-    └─ app.js
+├─ js/
+│   └─ app.js
+└─ data/
+   └─ tasas.json
